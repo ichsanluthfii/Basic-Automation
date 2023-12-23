@@ -1,8 +1,13 @@
 # basic-automation
 
-![Alt text](image.png)
-![Alt text](image-1.png)
-![Alt text](image-2.png)
+# Data Diri
+Nama : Ichsan Luthfi Maulana
+Nim : 201011401878
+Kelas : 07 TPLE 007
+
+# Gambar
+![Hasil](https://github.com/ichsanluthfii/Basic-Automation/assets/138857699/2f38267e-d8bd-4466-8a84-52c54199d0f6)
+
 ## Install requirements
 
   ### Install, create and activate virtualenv
